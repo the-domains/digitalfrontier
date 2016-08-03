@@ -1,16 +1,16 @@
-typography_spectrum: 0.11556624667719007
+typography_spectrum: 0.9201996142510325
 color:
-  brandStrength: 0.5797915162984282
-  lightness: 0.6131858916487545
-  saturation: 0.6946391644887626
-  rhythmicContrast: 0.2728559602983296
+  brandStrength: 0.3547490637283772
+  lightness: 0.14916898566298187
+  saturation: 0.3561739497818053
+  rhythmicContrast: 0.7979405464138836
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.46007829532027245
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.7678699514362961
 name: DigitalFrontier
 title: What's up?
 description: Tag me!
