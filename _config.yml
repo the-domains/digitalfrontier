@@ -1,0 +1,14 @@
+layout_spectrum: 0.46007829532027245
+typography_spectrum: 0.11556624667719007
+color:
+  brandStrength: 0.5797915162984282
+  lightness: 0.6131858916487545
+  saturation: 0.6946391644887626
+  rhythmicContrast: 0.2728559602983296
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: DigitalFrontier
