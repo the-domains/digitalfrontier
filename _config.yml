@@ -1,4 +1,3 @@
-layout_spectrum: 0.46007829532027245
 typography_spectrum: 0.11556624667719007
 color:
   brandStrength: 0.5797915162984282
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.46007829532027245
 name: DigitalFrontier
 title: What's up?
+description: Tag me!
